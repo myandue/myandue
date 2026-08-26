@@ -39,6 +39,6 @@
 
 ### Contact
 
-[![Email](https://img.shields.io/badge/Mail-1e1e2e?style=flat&logo=gmail&logoColor=EA4335)](mailto:hyunju5767@gmail.com)
+[![Email](https://img.shields.io/badge/Mail-1e1e2e?style=flat&logo=gmail&logoColor=EA4335)](https://mail.google.com/mail/?view=cm&fs=1&to=hyunju5767@gmail.com)
 
 <hr>
